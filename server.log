@@ -610,3 +610,20 @@
 2011-03-19 00:07:42 [INFO] Preparing spawn area: 81%
 2011-03-19 00:07:42 [INFO] Done (2573794015ns)! For help, type "help" or "?"
 2011-03-19 00:07:53 [INFO] altrntvgrlfrnd [/192.168.1.139:45716] logged in with entity id 93
+2011-03-19 00:09:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-19 00:09:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-19 00:09:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-19 00:14:30 [INFO] tchalvak [/192.168.1.132:36077] logged in with entity id 1110
+2011-03-19 00:43:55 [INFO] tchalvak lost connection: disconnect.quitting
+2011-03-19 00:47:16 [INFO] tchalvak [/192.168.1.132:59357] logged in with entity id 21684
+2011-03-19 00:55:44 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-03-19 01:03:00 [INFO] tchalvak lost connection: disconnect.quitting
+2011-03-19 01:03:03 [INFO] tchalvak [/192.168.1.132:39188] logged in with entity id 26945
+2011-03-19 01:08:19 [INFO] tchalvak lost connection: disconnect.quitting
+2011-03-19 01:13:21 [INFO] tchalvak [/192.168.1.132:38037] logged in with entity id 28571
+2011-03-19 01:29:54 [INFO] <tchalvak> t
+2011-03-19 01:37:18 [INFO] tchalvak lost connection: disconnect.quitting
+2011-03-19 01:37:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-19 01:37:27 [INFO] CONSOLE: Stopping the server..
+2011-03-19 01:37:27 [INFO] Stopping server
+2011-03-19 01:37:27 [INFO] Saving chunks
