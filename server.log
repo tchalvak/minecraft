@@ -991,3 +991,20 @@
 2011-03-23 23:11:00 [INFO] CONSOLE: Stopping the server..
 2011-03-23 23:11:01 [INFO] Stopping server
 2011-03-23 23:11:01 [INFO] Saving chunks
+2011-03-23 23:22:40 [INFO] Starting minecraft server version Beta 1.3
+2011-03-23 23:22:40 [INFO] Loading properties
+2011-03-23 23:22:40 [INFO] Starting Minecraft server on *:25565
+2011-03-23 23:22:40 [INFO] Preparing level "world"
+2011-03-23 23:22:40 [INFO] Preparing start region
+2011-03-23 23:22:42 [INFO] Preparing spawn area: 12%
+2011-03-23 23:22:43 [INFO] Preparing spawn area: 56%
+2011-03-23 23:22:44 [INFO] Done (3412762023ns)! For help, type "help" or "?"
+2011-03-23 23:22:52 [INFO] tchalvak [/192.168.1.132:58807] logged in with entity id 62
+2011-03-23 23:22:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 23:22:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 23:22:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 23:23:10 [INFO] tchalvak lost connection: disconnect.quitting
+2011-03-23 23:23:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 23:23:19 [INFO] CONSOLE: Stopping the server..
+2011-03-23 23:23:19 [INFO] Stopping server
+2011-03-23 23:23:19 [INFO] Saving chunks
