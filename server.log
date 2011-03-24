@@ -627,3 +627,367 @@
 2011-03-19 01:37:27 [INFO] CONSOLE: Stopping the server..
 2011-03-19 01:37:27 [INFO] Stopping server
 2011-03-19 01:37:27 [INFO] Saving chunks
+2011-03-20 17:32:56 [INFO] Starting minecraft server version Beta 1.3
+2011-03-20 17:32:56 [INFO] Loading properties
+2011-03-20 17:32:56 [INFO] Starting Minecraft server on *:25565
+2011-03-20 17:32:56 [INFO] Preparing level "world"
+2011-03-20 17:32:56 [INFO] Preparing start region
+2011-03-20 17:32:58 [INFO] Preparing spawn area: 28%
+2011-03-20 17:32:59 [INFO] Preparing spawn area: 77%
+2011-03-20 17:32:59 [INFO] Done (2777836285ns)! For help, type "help" or "?"
+2011-03-20 17:34:33 [INFO] /192.168.1.132:46798 lost connection
+2011-03-20 17:38:23 [INFO] tchalvak [/192.168.1.132:46842] logged in with entity id 57
+2011-03-20 17:38:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 17:38:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 17:38:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 17:38:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 17:39:52 [INFO] To run the server without a gui, start it like this:
+2011-03-20 17:39:52 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2011-03-20 17:39:52 [INFO] Console commands:
+2011-03-20 17:39:52 [INFO]    help  or  ?               shows this message
+2011-03-20 17:39:52 [INFO]    kick <player>             removes a player from the server
+2011-03-20 17:39:52 [INFO]    ban <player>              bans a player from the server
+2011-03-20 17:39:52 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2011-03-20 17:39:52 [INFO]    ban-ip <ip>               bans an IP address from the server
+2011-03-20 17:39:52 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2011-03-20 17:39:52 [INFO]    op <player>               turns a player into an op
+2011-03-20 17:39:52 [INFO]    deop <player>             removes op status from a player
+2011-03-20 17:39:52 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2011-03-20 17:39:52 [INFO]    give <player> <id> [num]  gives a player a resource
+2011-03-20 17:39:52 [INFO]    tell <player> <message>   sends a private message to a player
+2011-03-20 17:39:52 [INFO]    stop                      gracefully stops the server
+2011-03-20 17:39:52 [INFO]    save-all                  forces a server-wide level save
+2011-03-20 17:39:52 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2011-03-20 17:39:52 [INFO]    save-on                   re-enables terrain saving
+2011-03-20 17:39:52 [INFO]    list                      lists all currently connected players
+2011-03-20 17:39:52 [INFO]    say <message>             broadcasts a message to all players
+2011-03-20 17:39:52 [INFO]    time <add|set> <amount>   adds to or sets the world time (0-24000)
+2011-03-20 17:40:46 [INFO] tchalvak tried command: give tchalvak 15 2
+2011-03-20 17:54:26 [INFO] Unknown console command. Type "help" for help.
+2011-03-20 17:55:13 [INFO] CONSOLE: Opping tchalvak
+2011-03-20 17:55:43 [INFO] tchalvak issued server command: give tchalvak 15 2
+2011-03-20 17:55:43 [INFO] tchalvak: Giving tchalvak some 15
+2011-03-20 17:55:57 [INFO] tchalvak issued server command: give tchalvak 15 100
+2011-03-20 17:55:57 [INFO] tchalvak: Giving tchalvak some 15
+2011-03-20 17:57:13 [INFO] tchalvak issued server command: give tchalvak 15 128
+2011-03-20 17:57:13 [INFO] tchalvak: Giving tchalvak some 15
+2011-03-20 18:12:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:16:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:21:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:21:29 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:21:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:21:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:21:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:21:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:21:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:21:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:21:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:21:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:21:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:22:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:22:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:22:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:22:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:22:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:22:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:24:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:24:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:25:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:25:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:25:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:26:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:26:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:26:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:26:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:27:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:27:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:27:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:27:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:27:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:27:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:27:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:27:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:27:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:27:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:27:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:27:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:27:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:27:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:27:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:28:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:28:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:28:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:28:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:28:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:28:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:28:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:28:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:28:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:28:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:28:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:29:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:36:43 [INFO] tchalvak lost connection: disconnect.quitting
+2011-03-20 18:36:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-20 18:37:00 [INFO] CONSOLE: Stopping the server..
+2011-03-20 18:37:00 [INFO] Stopping server
+2011-03-20 18:37:00 [INFO] Saving chunks
+2011-03-20 23:01:33 [INFO] Starting minecraft server version Beta 1.3
+2011-03-20 23:01:34 [INFO] Loading properties
+2011-03-20 23:01:34 [INFO] Starting Minecraft server on *:25565
+2011-03-20 23:01:34 [INFO] Preparing level "world"
+2011-03-20 23:01:34 [INFO] Preparing start region
+2011-03-20 23:01:35 [INFO] Preparing spawn area: 24%
+2011-03-20 23:01:36 [INFO] Preparing spawn area: 77%
+2011-03-20 23:01:37 [INFO] Done (2834899332ns)! For help, type "help" or "?"
+2011-03-20 23:02:13 [INFO] CONSOLE: Opping altrntvgrlfrnd
+2011-03-20 23:04:54 [INFO] CONSOLE: Opping altrntvgrlfrnd
+2011-03-20 23:17:11 [INFO] altrntvgrlfrnd [/192.168.1.139:52475] logged in with entity id 79
+2011-03-20 23:17:41 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 261
+2011-03-20 23:17:41 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 261
+2011-03-20 23:19:18 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 3 640
+2011-03-20 23:19:18 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 3
+2011-03-20 23:19:55 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 3 200
+2011-03-20 23:19:55 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 3
+2011-03-20 23:20:10 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 3 64
+2011-03-20 23:20:10 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 3
+2011-03-20 23:21:32 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrd 3 64
+2011-03-20 23:21:48 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 3 62
+2011-03-20 23:21:48 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 3
+2011-03-20 23:22:06 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 3 64
+2011-03-20 23:22:06 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 3
+2011-03-20 23:28:47 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 65 64
+2011-03-20 23:28:47 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 65
+2011-03-21 00:00:13 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 326 5
+2011-03-21 00:00:13 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 326
+2011-03-21 00:00:54 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 326 8
+2011-03-21 00:00:54 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 326
+2011-03-21 00:03:31 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 326 8
+2011-03-21 00:03:31 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 326
+2011-03-21 00:09:57 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 54 10
+2011-03-21 00:09:57 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 54
+2011-03-21 00:11:36 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 3 63
+2011-03-21 00:11:36 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 3
+2011-03-21 00:12:00 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 3 64
+2011-03-21 00:12:00 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 3
+2011-03-21 00:12:11 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 3 64
+2011-03-21 00:12:11 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 3
+2011-03-21 00:12:25 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 3 32
+2011-03-21 00:12:25 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 3
+2011-03-21 00:12:36 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 3 64
+2011-03-21 00:12:36 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 3
+2011-03-21 00:12:51 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 3 64
+2011-03-21 00:12:51 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 3
+2011-03-21 00:13:05 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 3 64
+2011-03-21 00:13:05 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 3
+2011-03-21 00:13:21 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 3 64
+2011-03-21 00:13:21 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 3
+2011-03-21 00:13:34 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 3 64
+2011-03-21 00:13:34 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 3
+2011-03-21 00:13:46 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 3 64
+2011-03-21 00:13:46 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 3
+2011-03-21 00:13:55 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 3 64
+2011-03-21 00:13:55 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 3
+2011-03-21 00:23:31 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 48 64
+2011-03-21 00:23:31 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 48
+2011-03-21 00:24:32 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 278
+2011-03-21 00:24:32 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 278
+2011-03-21 00:27:41 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 48 64
+2011-03-21 00:27:41 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 48
+2011-03-21 00:31:08 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 20 64
+2011-03-21 00:31:08 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 20
+2011-03-21 00:32:27 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 85 64
+2011-03-21 00:32:27 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 85
+2011-03-21 00:33:57 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 277
+2011-03-21 00:33:57 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 277
+2011-03-21 01:05:01 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 89 64
+2011-03-21 01:05:01 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 89
+2011-03-21 01:18:52 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 4 64
+2011-03-21 01:18:52 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 4
+2011-03-21 01:19:07 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 4 64
+2011-03-21 01:19:07 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 4
+2011-03-21 01:19:22 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 4 64
+2011-03-21 01:19:22 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 4
+2011-03-21 01:19:35 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 4 64
+2011-03-21 01:19:35 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 4
+2011-03-21 01:43:21 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 4 64
+2011-03-21 01:43:21 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 4
+2011-03-21 01:43:35 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 4 64
+2011-03-21 01:43:35 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 4
+2011-03-21 01:50:24 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 4 64
+2011-03-21 01:50:24 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 4
+2011-03-21 01:50:39 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 4 64
+2011-03-21 01:50:39 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 4
+2011-03-21 01:50:50 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 4 64
+2011-03-21 01:50:50 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 4
+2011-03-21 01:57:12 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 20 64
+2011-03-21 01:57:12 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 20
+2011-03-21 01:57:31 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 20 64
+2011-03-21 01:57:31 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 20
+2011-03-21 02:08:04 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 67 64
+2011-03-21 02:08:04 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 67
+2011-03-21 02:17:47 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 58
+2011-03-21 02:17:47 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 58
+2011-03-21 02:18:19 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 5 64
+2011-03-21 02:18:19 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 5
+2011-03-21 02:21:10 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-03-21 02:22:00 [INFO] Unknown console command. Type "help" for help.
+2011-03-21 02:22:03 [INFO] To run the server without a gui, start it like this:
+2011-03-21 02:22:03 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2011-03-21 02:22:03 [INFO] Console commands:
+2011-03-21 02:22:03 [INFO]    help  or  ?               shows this message
+2011-03-21 02:22:03 [INFO]    kick <player>             removes a player from the server
+2011-03-21 02:22:03 [INFO]    ban <player>              bans a player from the server
+2011-03-21 02:22:03 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2011-03-21 02:22:03 [INFO]    ban-ip <ip>               bans an IP address from the server
+2011-03-21 02:22:03 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2011-03-21 02:22:03 [INFO]    op <player>               turns a player into an op
+2011-03-21 02:22:03 [INFO]    deop <player>             removes op status from a player
+2011-03-21 02:22:03 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2011-03-21 02:22:03 [INFO]    give <player> <id> [num]  gives a player a resource
+2011-03-21 02:22:03 [INFO]    tell <player> <message>   sends a private message to a player
+2011-03-21 02:22:03 [INFO]    stop                      gracefully stops the server
+2011-03-21 02:22:03 [INFO]    save-all                  forces a server-wide level save
+2011-03-21 02:22:03 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2011-03-21 02:22:03 [INFO]    save-on                   re-enables terrain saving
+2011-03-21 02:22:03 [INFO]    list                      lists all currently connected players
+2011-03-21 02:22:03 [INFO]    say <message>             broadcasts a message to all players
+2011-03-21 02:22:03 [INFO]    time <add|set> <amount>   adds to or sets the world time (0-24000)
+2011-03-21 02:22:14 [INFO] CONSOLE: Stopping the server..
+2011-03-21 02:22:14 [INFO] Stopping server
+2011-03-21 02:22:14 [INFO] Saving chunks
+2011-03-23 22:33:14 [INFO] Starting minecraft server version Beta 1.3
+2011-03-23 22:33:14 [INFO] Loading properties
+2011-03-23 22:33:14 [INFO] Starting Minecraft server on *:25565
+2011-03-23 22:33:15 [INFO] Preparing level "world"
+2011-03-23 22:33:15 [INFO] Preparing start region
+2011-03-23 22:33:16 [INFO] Preparing spawn area: 40%
+2011-03-23 22:33:17 [INFO] Preparing spawn area: 93%
+2011-03-23 22:33:17 [INFO] Done (2611664124ns)! For help, type "help" or "?"
+2011-03-23 22:34:45 [INFO] altrntvgrlfrnd [/192.168.1.139:36848] logged in with entity id 45
+2011-03-23 22:36:18 [INFO] tchalvak [/192.168.1.132:42101] logged in with entity id 1121
+2011-03-23 22:36:31 [INFO] tchalvak lost connection: disconnect.quitting
+2011-03-23 22:36:35 [INFO] tchalvak [/192.168.1.132:42110] logged in with entity id 1378
+2011-03-23 22:36:50 [INFO] altrntvgrlfrnd issued server command: give tchalvak 87 64
+2011-03-23 22:36:50 [INFO] altrntvgrlfrnd: Giving tchalvak some 87
+2011-03-23 22:38:56 [INFO] <altrntvgrlfrnd> give altrntvgrlfrnd 2 64
+2011-03-23 22:39:23 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 2 64
+2011-03-23 22:39:23 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 2
+2011-03-23 22:39:36 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 2 64
+2011-03-23 22:39:36 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 2
+2011-03-23 22:45:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:45:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:46:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:46:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:46:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:46:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:47:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:48:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:48:29 [INFO] altrntvgrlfrnd issued server command: give tchalvak 264 64
+2011-03-23 22:48:29 [INFO] altrntvgrlfrnd: Giving tchalvak some 264
+2011-03-23 22:49:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:54:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:54:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:54:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:54:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:54:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:54:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:54:45 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:54:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:54:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:54:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:54:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:55:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:55:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:55:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:55:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:55:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:55:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:55:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:55:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:55:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:55:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:55:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:55:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:55:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:55:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:55:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:55:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:55:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:55:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:55:52 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 2 64
+2011-03-23 22:55:52 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 2
+2011-03-23 22:55:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:55:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:56:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:56:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:56:05 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 2 64
+2011-03-23 22:56:05 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 2
+2011-03-23 22:56:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:56:11 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:56:11 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 2 64
+2011-03-23 22:56:11 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 2
+2011-03-23 22:56:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:56:18 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:56:20 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 2 64
+2011-03-23 22:56:20 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 2
+2011-03-23 22:56:21 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:56:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:56:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:56:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:56:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:56:40 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:56:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:56:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:56:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:56:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:56:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:57:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:57:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:57:06 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:57:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:57:16 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:57:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:57:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:57:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:57:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:57:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:57:35 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:57:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:57:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:57:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:57:47 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:57:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:57:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:57:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:57:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:58:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:58:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:58:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:58:07 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:58:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-03-23 22:59:42 [INFO] altrntvgrlfrnd issued server command: give tchalvak 259 5
+2011-03-23 22:59:42 [INFO] altrntvgrlfrnd: Giving tchalvak some 259
+2011-03-23 22:59:59 [INFO] altrntvgrlfrnd issued server command: give tchalvak 256 64
+2011-03-23 22:59:59 [INFO] altrntvgrlfrnd: Giving tchalvak some 256
+2011-03-23 23:00:52 [INFO] tchalvak issued server command: give tchalvak 256 100
+2011-03-23 23:00:52 [INFO] tchalvak: Giving tchalvak some 256
+2011-03-23 23:01:15 [INFO] tchalvak issued server command: give tchalvak 50 100
+2011-03-23 23:01:15 [INFO] tchalvak: Giving tchalvak some 50
+2011-03-23 23:01:29 [INFO] tchalvak issued server command: give tchalvak 255 100
+2011-03-23 23:01:38 [INFO] tchalvak issued server command: give tchalvak 254 100
+2011-03-23 23:01:51 [INFO] tchalvak issued server command: give tchalvak 257 100
+2011-03-23 23:01:51 [INFO] tchalvak: Giving tchalvak some 257
+2011-03-23 23:02:19 [INFO] tchalvak issued server command: give tchalvak 265 100
+2011-03-23 23:02:19 [INFO] tchalvak: Giving tchalvak some 265
+2011-03-23 23:05:09 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 3 64
+2011-03-23 23:05:09 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 3
+2011-03-23 23:05:19 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 3 64
+2011-03-23 23:05:19 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 3
+2011-03-23 23:05:50 [INFO] tchalvak issued server command: give altrntvgrlfrnd  46 100
+2011-03-23 23:06:10 [INFO] tchalvak issued server command: give altrntvgrlfrnd 46 64
+2011-03-23 23:06:10 [INFO] tchalvak: Giving altrntvgrlfrnd some 46
+2011-03-23 23:10:53 [INFO] tchalvak lost connection: disconnect.quitting
+2011-03-23 23:10:55 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-03-23 23:11:00 [INFO] CONSOLE: Stopping the server..
+2011-03-23 23:11:01 [INFO] Stopping server
+2011-03-23 23:11:01 [INFO] Saving chunks
