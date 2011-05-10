@@ -1,0 +1,4 @@
+#!/bin/sh
+cd /home/tchalvak/Execs/
+# Min ram, max ram, run in terminal.
+java -Xms512M -Xmx1024M -jar minecraft_server.jar nogui
