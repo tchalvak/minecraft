@@ -2996,3 +2996,55 @@ java.lang.ArrayIndexOutOfBoundsException: 35264
 2011-04-04 01:35:31 [INFO] CONSOLE: Stopping the server..
 2011-04-04 01:35:31 [INFO] Stopping server
 2011-04-04 01:35:31 [INFO] Saving chunks
+2011-05-09 22:33:46 [INFO] Starting minecraft server version Beta 1.4
+2011-05-09 22:33:46 [INFO] Loading properties
+2011-05-09 22:33:46 [INFO] Starting Minecraft server on *:25565
+2011-05-09 22:33:46 [INFO] Preparing level "world"
+2011-05-09 22:33:46 [INFO] Preparing start region
+2011-05-09 22:33:48 [INFO] Preparing spawn area: 12%
+2011-05-09 22:33:49 [INFO] Preparing spawn area: 73%
+2011-05-09 22:33:49 [INFO] Done (2686873887ns)! For help, type "help" or "?"
+2011-05-09 22:34:49 [INFO] /192.168.1.103:52596 lost connection
+2011-05-09 22:35:04 [INFO] /192.168.1.103:52597 lost connection
+2011-05-09 22:35:16 [INFO] Unknown console command. Type "help" for help.
+2011-05-09 22:35:18 [INFO] Unknown console command. Type "help" for help.
+2011-05-09 22:35:18 [INFO] Unknown console command. Type "help" for help.
+2011-05-09 22:35:21 [INFO] To run the server without a gui, start it like this:
+2011-05-09 22:35:21 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2011-05-09 22:35:21 [INFO] Console commands:
+2011-05-09 22:35:21 [INFO]    help  or  ?               shows this message
+2011-05-09 22:35:21 [INFO]    kick <player>             removes a player from the server
+2011-05-09 22:35:21 [INFO]    ban <player>              bans a player from the server
+2011-05-09 22:35:21 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2011-05-09 22:35:21 [INFO]    ban-ip <ip>               bans an IP address from the server
+2011-05-09 22:35:21 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2011-05-09 22:35:21 [INFO]    op <player>               turns a player into an op
+2011-05-09 22:35:21 [INFO]    deop <player>             removes op status from a player
+2011-05-09 22:35:21 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2011-05-09 22:35:21 [INFO]    give <player> <id> [num]  gives a player a resource
+2011-05-09 22:35:21 [INFO]    tell <player> <message>   sends a private message to a player
+2011-05-09 22:35:21 [INFO]    stop                      gracefully stops the server
+2011-05-09 22:35:21 [INFO]    save-all                  forces a server-wide level save
+2011-05-09 22:35:21 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2011-05-09 22:35:21 [INFO]    save-on                   re-enables terrain saving
+2011-05-09 22:35:21 [INFO]    list                      lists all currently connected players
+2011-05-09 22:35:21 [INFO]    say <message>             broadcasts a message to all players
+2011-05-09 22:35:21 [INFO]    time <add|set> <amount>   adds to or sets the world time (0-24000)
+2011-05-09 22:35:33 [INFO] Unknown console command. Type "help" for help.
+2011-05-09 22:35:35 [INFO] Unknown console command. Type "help" for help.
+2011-05-09 22:35:36 [INFO] Unknown console command. Type "help" for help.
+2011-05-09 22:35:41 [INFO] CONSOLE: Stopping the server..
+2011-05-09 22:35:41 [INFO] Stopping server
+2011-05-09 22:35:41 [INFO] Saving chunks
+2011-05-09 22:35:49 [INFO] Starting minecraft server version Beta 1.4
+2011-05-09 22:35:49 [INFO] Loading properties
+2011-05-09 22:35:49 [INFO] Starting Minecraft server on *:25565
+2011-05-09 22:35:49 [INFO] Preparing level "world"
+2011-05-09 22:35:49 [INFO] Preparing start region
+2011-05-09 22:35:50 [INFO] Preparing spawn area: 0%
+2011-05-09 22:35:51 [INFO] Preparing spawn area: 36%
+2011-05-09 22:35:52 [INFO] Preparing spawn area: 73%
+2011-05-09 22:35:53 [INFO] Done (4019373971ns)! For help, type "help" or "?"
+2011-05-09 22:36:52 [INFO] CONSOLE: Stopping the server..
+2011-05-09 22:36:52 [INFO] Stopping server
+2011-05-09 22:36:52 [INFO] Saving chunks
