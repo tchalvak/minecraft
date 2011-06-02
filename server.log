@@ -3266,3 +3266,784 @@ java.lang.ArrayIndexOutOfBoundsException: 35264
 2011-05-10 01:38:37 [INFO] CONSOLE: Stopping the server..
 2011-05-10 01:38:37 [INFO] Stopping server
 2011-05-10 01:38:37 [INFO] Saving chunks
+2011-05-10 22:27:12 [INFO] Starting minecraft server version Beta 1.5_02
+2011-05-10 22:27:12 [INFO] Loading properties
+2011-05-10 22:27:12 [INFO] Starting Minecraft server on *:25565
+2011-05-10 22:27:13 [INFO] Preparing level "world"
+2011-05-10 22:27:13 [INFO] Preparing start region
+2011-05-10 22:27:14 [INFO] Preparing spawn area: 48%
+2011-05-10 22:27:15 [INFO] Done (2189178439ns)! For help, type "help" or "?"
+2011-05-10 22:27:20 [INFO] Unknown console command. Type "help" for help.
+2011-05-10 22:28:09 [INFO] tchalvak [/192.168.1.103:56185] logged in with entity id 88 at (55.5, 69.62000000476837, -175.5)
+2011-05-10 22:28:21 [INFO] tchalvak lost connection: disconnect.quitting
+2011-05-10 22:28:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-10 22:50:58 [INFO] tchalvak [/192.168.1.109:37836] logged in with entity id 206 at (52.5, 66.62000000476837, -174.5)
+2011-05-10 22:52:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-10 23:13:51 [INFO] tchalvak lost connection: disconnect.quitting
+2011-05-10 23:59:04 [INFO] altrntvgrlfrnd [/192.168.1.109:50000] logged in with entity id 77153 at (55.5, 69.62000000476837, -169.5)
+2011-05-11 00:10:52 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 352
+2011-05-11 00:10:52 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 352
+2011-05-11 00:12:27 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 326
+2011-05-11 00:12:27 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 326
+2011-05-11 00:21:26 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-05-11 00:50:36 [INFO] altrntvgrlfrnd [/192.168.1.109:44201] logged in with entity id 94396 at (50.5, 66.62000000476837, -177.5)
+2011-05-11 01:00:08 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 1 64
+2011-05-11 01:00:08 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 1
+2011-05-11 01:07:27 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 2 64
+2011-05-11 01:07:27 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 2
+2011-05-11 01:07:41 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 3 64
+2011-05-11 01:07:41 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 3
+2011-05-11 01:07:50 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 3 64
+2011-05-11 01:07:50 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 3
+2011-05-11 01:07:59 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 3 64
+2011-05-11 01:07:59 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 3
+2011-05-11 01:18:39 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 5 64
+2011-05-11 01:18:39 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 5
+2011-05-11 01:20:15 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 5 64
+2011-05-11 01:20:15 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 5
+2011-05-11 01:20:22 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 5 64
+2011-05-11 01:20:22 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 5
+2011-05-11 01:23:15 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-05-11 01:26:47 [INFO] CONSOLE: Stopping the server..
+2011-05-11 01:26:47 [INFO] Stopping server
+2011-05-11 01:26:47 [INFO] Saving chunks
+2011-05-11 18:20:54 [INFO] Starting minecraft server version Beta 1.5_02
+2011-05-11 18:20:54 [INFO] Loading properties
+2011-05-11 18:20:54 [INFO] Starting Minecraft server on *:25565
+2011-05-11 18:20:55 [INFO] Preparing level "world"
+2011-05-11 18:20:55 [INFO] Preparing start region
+2011-05-11 18:20:56 [INFO] Preparing spawn area: 4%
+2011-05-11 18:20:57 [INFO] Preparing spawn area: 16%
+2011-05-11 18:20:58 [INFO] Preparing spawn area: 32%
+2011-05-11 18:21:04 [INFO] Preparing spawn area: 40%
+2011-05-11 18:21:05 [INFO] Preparing spawn area: 52%
+2011-05-11 18:21:06 [INFO] Preparing spawn area: 57%
+2011-05-11 18:21:07 [INFO] Preparing spawn area: 85%
+2011-05-11 18:21:08 [INFO] Preparing spawn area: 97%
+2011-05-11 18:21:09 [INFO] Done (14309284214ns)! For help, type "help" or "?"
+2011-05-11 18:22:18 [INFO] desertmirage [/192.168.1.107:49270] logged in with entity id 82 at (46.5, 65.62000000476837, -184.5)
+2011-05-11 18:22:24 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-11 18:22:26 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-11 18:22:39 [INFO] altrntvgrlfrnd [/192.168.1.144:51097] logged in with entity id 1407 at (42.5, 65.62000000476837, -168.5)
+2011-05-11 18:22:59 [INFO] <desertmirage> creepers everywhere
+2011-05-11 18:23:01 [INFO] <altrntvgrlfrnd> lucas, can you read this?
+2011-05-11 18:23:06 [INFO] <altrntvgrlfrnd> hahah
+2011-05-11 18:23:09 [INFO] <desertmirage> yep
+2011-05-11 18:23:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-11 18:23:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-11 18:23:30 [INFO] <altrntvgrlfrnd> go to x: 179, z:-1277
+2011-05-11 18:23:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-11 18:23:32 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-11 18:23:41 [INFO] <altrntvgrlfrnd> that's where roy and i are now
+2011-05-11 18:24:04 [INFO] <altrntvgrlfrnd> it's pretty cool
+2011-05-11 18:28:07 [INFO] <desertmirage> is it alright bif i borrow some food
+2011-05-11 18:31:07 [INFO] <desertmirage> anybody there
+2011-05-11 18:36:05 [INFO] <desertmirage> is anybody alive
+2011-05-11 18:37:39 [INFO] <desertmirage> yo
+2011-05-11 18:38:07 [INFO] <altrntvgrlfrnd> sorry i was afk
+2011-05-11 18:38:41 [INFO] <altrntvgrlfrnd> go ahead and take whatever you like from the treehouse
+2011-05-11 18:38:57 [INFO] <altrntvgrlfrnd> also, you'll need a boat to get to the new place.
+2011-05-11 18:38:58 [INFO] <desertmirage> ok thank you
+2011-05-11 18:40:34 [INFO] <altrntvgrlfrnd> are you near a bed?
+2011-05-11 18:41:09 [INFO] <desertmirage> ya hang on cooking
+2011-05-11 18:41:28 [INFO] <altrntvgrlfrnd> ok, let me know when you are near a bed, so I can hop in mine
+2011-05-11 18:42:18 [INFO] <altrntvgrlfrnd> actually, just go to bed, i'll already be in mine
+2011-05-11 18:42:47 [INFO] <desertmirage> why do you have a bow and no arrows
+2011-05-11 18:42:56 [INFO] <altrntvgrlfrnd> didn't spawn them
+2011-05-11 18:43:01 [INFO] <desertmirage> k
+2011-05-11 18:43:21 [INFO] altrntvgrlfrnd issued server command: give desertmirage 262 64
+2011-05-11 18:43:22 [INFO] altrntvgrlfrnd: Giving desertmirage some 262
+2011-05-11 18:45:29 [INFO] <desertmirage> on my way
+2011-05-11 18:45:39 [INFO] <altrntvgrlfrnd> ok, see you in a few
+2011-05-11 18:46:25 [INFO] <desertmirage> which way from tree house
+2011-05-11 18:46:43 [INFO] <altrntvgrlfrnd> follow the coordinates, press F3
+2011-05-11 18:46:54 [INFO] tchalvak [/192.168.1.103:48927] logged in with entity id 44294 at (38.5, 65.62000000476837, -180.5)
+2011-05-11 18:47:14 [INFO] <desertmirage> what were the coordinets
+2011-05-11 18:47:29 [INFO] <tchalvak> let's meet up at the treehouse, lucas.
+2011-05-11 18:47:43 [INFO] <desertmirage> thanks
+2011-05-11 18:47:44 [INFO] <altrntvgrlfrnd> go to x:179, z:-1277
+2011-05-11 18:48:09 [INFO] <desertmirage> waiting for tchalvak
+2011-05-11 18:49:16 [INFO] altrntvgrlfrnd issued server command: give tchalvak 345
+2011-05-11 18:49:16 [INFO] altrntvgrlfrnd: Giving tchalvak some 345
+2011-05-11 18:51:04 [INFO] <desertmirage> tchalvak where are you coming from
+2011-05-11 18:51:47 [INFO] <tchalvak> I'm in the floating island now.
+2011-05-11 18:53:02 [INFO] <tchalvak> I am now at the place where all the pigs span.
+2011-05-11 18:53:09 [INFO] <tchalvak> spawn, that is.
+2011-05-11 18:53:24 [INFO] <tchalvak> where are you?
+2011-05-11 18:53:46 [INFO] <desertmirage> coming to you
+2011-05-11 18:55:08 [INFO] <desertmirage> sorry
+2011-05-11 18:55:16 [INFO] <tchalvak> eh?
+2011-05-11 18:55:35 [INFO] <desertmirage> meant to hit spot next to you here
+2011-05-11 18:59:29 [INFO] <desertmirage> dude
+2011-05-11 18:59:54 [INFO] <desertmirage> you were killed
+2011-05-11 19:00:06 [INFO] <altrntvgrlfrnd> just press F3 and go to where x shows 179
+2011-05-11 19:00:22 [INFO] <altrntvgrlfrnd> then, when you get there, follow z to -1277
+2011-05-11 19:00:29 [INFO] <desertmirage> k
+2011-05-11 19:01:59 [INFO] <tchalvak> ;icas fp;;pw ,e/
+2011-05-11 19:02:18 [INFO] <altrntvgrlfrnd> i agree
+2011-05-11 19:03:58 [INFO] altrntvgrlfrnd issued server command: give tchalvak 333 64
+2011-05-11 19:03:58 [INFO] altrntvgrlfrnd: Giving tchalvak some 333
+2011-05-11 19:04:10 [INFO] <tchalvak> luuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuucas
+2011-05-11 19:04:19 [INFO] <tchalvak> why did you not follow me?
+2011-05-11 19:04:20 [INFO] <desertmirage> yes
+2011-05-11 19:04:47 [INFO] <desertmirage> oh meet me at tree house
+2011-05-11 19:04:54 [INFO] <altrntvgrlfrnd> he's already gone.
+2011-05-11 19:04:54 [INFO] <tchalvak> unless you're able to get their on your own.
+2011-05-11 19:05:03 [INFO] <tchalvak> head outside and follow the sunrise.
+2011-05-11 19:05:16 [INFO] <tchalvak> so that is east...
+2011-05-11 19:05:40 [INFO] <tchalvak> or just use the numbers shown when you hit f3.
+2011-05-11 19:06:39 [INFO] altrntvgrlfrnd issued server command: give tchalvak 89 64
+2011-05-11 19:06:39 [INFO] altrntvgrlfrnd: Giving tchalvak some 89
+2011-05-11 19:07:02 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 45 64
+2011-05-11 19:07:02 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 45
+2011-05-11 19:07:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-11 19:07:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-11 19:08:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-11 19:08:40 [INFO] <tchalvak> how are you doing, lucas?
+2011-05-11 19:08:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-11 19:08:56 [INFO] <desertmirage> approaching
+2011-05-11 19:09:01 [INFO] tchalvak issued server command: give tchalvak 89 100
+2011-05-11 19:09:01 [INFO] tchalvak: Giving tchalvak some 89
+2011-05-11 19:10:10 [INFO] <desertmirage> im here
+2011-05-11 19:10:30 [INFO] <altrntvgrlfrnd> here meaning where?
+2011-05-11 19:10:43 [INFO] <desertmirage> in front of you
+2011-05-11 19:10:52 [INFO] <altrntvgrlfrnd> um
+2011-05-11 19:10:57 [INFO] <altrntvgrlfrnd> i don't see you
+2011-05-11 19:11:44 [INFO] <desertmirage> im in the house your building out of bricks
+2011-05-11 19:11:44 [INFO] <altrntvgrlfrnd> woah
+2011-05-11 19:11:47 [INFO] <altrntvgrlfrnd> okay
+2011-05-11 19:12:06 [INFO] <altrntvgrlfrnd> that was wierd
+2011-05-11 19:12:14 [INFO] <altrntvgrlfrnd> i literally couldn't see you
+2011-05-11 19:12:21 [INFO] <desertmirage> its the cloak
+2011-05-11 19:12:30 [INFO] <altrntvgrlfrnd> what?
+2011-05-11 19:12:49 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 45 64
+2011-05-11 19:12:49 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 45
+2011-05-11 19:12:51 [INFO] tchalvak issued server command: give tchalvak 100 89
+2011-05-11 19:12:59 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 45 64
+2011-05-11 19:12:59 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 45
+2011-05-11 19:13:00 [INFO] <desertmirage> it is the cloak it blends in with the backround
+2011-05-11 19:13:03 [INFO] tchalvak issued server command: give tchalvak 89 100
+2011-05-11 19:13:03 [INFO] tchalvak: Giving tchalvak some 89
+2011-05-11 19:13:28 [INFO] tchalvak issued server command: give tchalvak 89 100
+2011-05-11 19:13:28 [INFO] tchalvak: Giving tchalvak some 89
+2011-05-11 19:13:30 [INFO] <desertmirage> well forest at least
+2011-05-11 19:14:11 [INFO] <desertmirage> where is tchalvak
+2011-05-11 19:14:19 [INFO] <altrntvgrlfrnd> i dunno
+2011-05-11 19:14:32 [INFO] <altrntvgrlfrnd> time to get inside, foollow me
+2011-05-11 19:15:11 [INFO] <desertmirage> small
+2011-05-11 19:15:15 [INFO] <altrntvgrlfrnd> well yeah
+2011-05-11 19:15:25 [INFO] <altrntvgrlfrnd> i'm just using it as cover for night time
+2011-05-11 19:15:44 [INFO] <desertmirage> is it ok if i make space for my bed
+2011-05-11 19:16:00 [INFO] <altrntvgrlfrnd> lemme do it for you
+2011-05-11 19:16:05 [INFO] <desertmirage> k
+2011-05-11 19:16:13 [INFO] <altrntvgrlfrnd> there's a certain way to make sure that you're safe when you sleep
+2011-05-11 19:16:24 [INFO] <desertmirage> oh
+2011-05-11 19:17:02 [INFO] <altrntvgrlfrnd> okay, go ahead.
+2011-05-11 19:21:03 [INFO] <desertmirage> im gonna go hunting
+2011-05-11 19:21:17 [INFO] <altrntvgrlfrnd> k watch out for creepers
+2011-05-11 19:21:33 [INFO] <altrntvgrlfrnd> there was one out back a little ways away
+2011-05-11 19:21:37 [INFO] <desertmirage> ha ha ha with real laghter
+2011-05-11 19:22:00 [INFO] <desertmirage> patched up that hole by the way
+2011-05-11 19:22:09 [INFO] <altrntvgrlfrnd> thanks
+2011-05-11 19:22:20 [INFO] <desertmirage> no prob
+2011-05-11 19:24:30 [INFO] tchalvak lost connection: disconnect.quitting
+2011-05-11 19:24:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-11 19:25:35 [INFO] tchalvak [/192.168.1.103:41324] logged in with entity id 164785 at (46.5, 65.62000000476837, -185.5)
+2011-05-11 19:25:50 [INFO] <desertmirage> tchalvak i found your base
+2011-05-11 19:26:06 [INFO] <tchalvak> It's a work in progress.
+2011-05-11 19:26:15 [INFO] <desertmirage> its cool
+2011-05-11 19:26:19 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 324 10
+2011-05-11 19:26:19 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 324
+2011-05-11 19:26:23 [INFO] <tchalvak> If you go down the hole, pigs and cattle fall on you from above.
+2011-05-11 19:26:28 [INFO] <tchalvak> I found.
+2011-05-11 19:27:05 [INFO] <desertmirage> i might have found your mines insted
+2011-05-11 19:29:33 [INFO] tchalvak lost connection: disconnect.quitting
+2011-05-11 19:29:34 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 53 64
+2011-05-11 19:29:34 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 53
+2011-05-11 19:29:41 [INFO] tchalvak [/192.168.1.103:44199] logged in with entity id 172393 at (50.5, 66.62000000476837, -173.5)
+2011-05-11 19:30:14 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 82 64
+2011-05-11 19:30:14 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 82
+2011-05-11 19:30:33 [INFO] <desertmirage> yo
+2011-05-11 19:30:44 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 82 64
+2011-05-11 19:30:44 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 82
+2011-05-11 19:30:56 [INFO] <altrntvgrlfrnd> yeah?
+2011-05-11 19:31:05 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 82
+2011-05-11 19:31:05 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 82
+2011-05-11 19:31:11 [INFO] <desertmirage> just greeting you
+2011-05-11 19:31:16 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 82 63
+2011-05-11 19:31:16 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 82
+2011-05-11 19:31:23 [INFO] <altrntvgrlfrnd> where are you?
+2011-05-11 19:31:35 [INFO] <tchalvak> lucas, can you see when people sign on?
+2011-05-11 19:31:39 [INFO] <desertmirage> im right here
+2011-05-11 19:31:47 [INFO] <desertmirage> yes
+2011-05-11 19:31:49 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 82
+2011-05-11 19:31:49 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 82
+2011-05-11 19:32:18 [INFO] <altrntvgrlfrnd> you're inside the little cave?
+2011-05-11 19:32:28 [INFO] <desertmirage> yes
+2011-05-11 19:32:38 [INFO] <altrntvgrlfrnd> i don't know why but i can't see you again
+2011-05-11 19:32:53 [INFO] <desertmirage> its the cloak
+2011-05-11 19:32:59 [INFO] <altrntvgrlfrnd> no it's not
+2011-05-11 19:33:07 [INFO] <altrntvgrlfrnd> you aren't visible to me
+2011-05-11 19:33:32 [INFO] <altrntvgrlfrnd> okay i saw that painting go up
+2011-05-11 19:33:43 [INFO] <altrntvgrlfrnd> that's freaking creepy
+2011-05-11 19:33:49 [INFO] <altrntvgrlfrnd> you can see me, right?
+2011-05-11 19:33:58 [INFO] <desertmirage> yeah
+2011-05-11 19:34:10 [INFO] <altrntvgrlfrnd> that's really weird
+2011-05-11 19:34:13 [INFO] <desertmirage> im a ghost
+2011-05-11 19:34:24 [INFO] <altrntvgrlfrnd> i guess so
+2011-05-11 19:34:52 [INFO] <desertmirage> im going in bed see if you can see me
+2011-05-11 19:35:30 [INFO] <altrntvgrlfrnd> stop opening the door
+2011-05-11 19:35:35 [INFO] <altrntvgrlfrnd> stuff might get in
+2011-05-11 19:35:36 [INFO] <desertmirage> k
+2011-05-11 19:36:26 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 67 64
+2011-05-11 19:36:26 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 67
+2011-05-11 19:36:48 [INFO] tchalvak issued server command: give tchalvak 89 100
+2011-05-11 19:36:48 [INFO] tchalvak: Giving tchalvak some 89
+2011-05-11 19:36:57 [INFO] tchalvak issued server command: give tchalvak 89 100
+2011-05-11 19:36:57 [INFO] tchalvak: Giving tchalvak some 89
+2011-05-11 19:37:04 [INFO] <desertmirage> im going out to see if the zombies see me
+2011-05-11 19:37:06 [INFO] tchalvak issued server command: give tchalvak 89 100
+2011-05-11 19:37:06 [INFO] tchalvak: Giving tchalvak some 89
+2011-05-11 19:37:15 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 347
+2011-05-11 19:37:15 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 347
+2011-05-11 19:39:54 [INFO] <desertmirage> can you hear me
+2011-05-11 19:40:10 [INFO] <altrntvgrlfrnd> yep
+2011-05-11 19:40:43 [INFO] <desertmirage> hey careful you almost hit me
+2011-05-11 19:40:56 [INFO] <altrntvgrlfrnd> i can't be careful, i can't even see you
+2011-05-11 19:41:05 [INFO] <altrntvgrlfrnd> you have to be careful and not get close to me
+2011-05-11 19:41:17 [INFO] <desertmirage> can you see my arrow
+2011-05-11 19:41:23 [INFO] <altrntvgrlfrnd> yes
+2011-05-11 19:42:01 [INFO] <desertmirage> tcalvak where are you
+2011-05-11 19:43:22 [INFO] <desertmirage> can i have some tnt
+2011-05-11 19:43:39 [INFO] altrntvgrlfrnd issued server command: give desertmirage 46 64
+2011-05-11 19:43:39 [INFO] altrntvgrlfrnd: Giving desertmirage some 46
+2011-05-11 19:43:47 [INFO] <altrntvgrlfrnd> detonate that far away from here
+2011-05-11 19:43:53 [INFO] <desertmirage> k
+2011-05-11 19:44:40 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 45 64
+2011-05-11 19:44:40 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 45
+2011-05-11 19:44:45 [INFO] <desertmirage> did you give me some
+2011-05-11 19:44:51 [INFO] <altrntvgrlfrnd> yes
+2011-05-11 19:45:02 [INFO] <desertmirage> i have none
+2011-05-11 19:45:20 [INFO] altrntvgrlfrnd issued server command: give desertmirage 46 64
+2011-05-11 19:45:20 [INFO] altrntvgrlfrnd: Giving desertmirage some 46
+2011-05-11 19:45:52 [INFO] <desertmirage> give yourself some and ill come get it
+2011-05-11 19:46:14 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-05-11 19:46:19 [INFO] altrntvgrlfrnd [/192.168.1.144:47007] logged in with entity id 209391 at (44.5, 65.62000000476837, -175.5)
+2011-05-11 19:46:29 [INFO] <altrntvgrlfrnd> okay, now i can see you
+2011-05-11 19:46:38 [INFO] <desertmirage> cool
+2011-05-11 19:46:39 [INFO] altrntvgrlfrnd issued server command: give desertmirage 46 64
+2011-05-11 19:46:39 [INFO] altrntvgrlfrnd: Giving desertmirage some 46
+2011-05-11 19:47:00 [INFO] <desertmirage> i need more tnt
+2011-05-11 19:47:34 [INFO] altrntvgrlfrnd issued server command: give desertmirage 46 64
+2011-05-11 19:47:34 [INFO] altrntvgrlfrnd: Giving desertmirage some 46
+2011-05-11 19:47:40 [INFO] tchalvak lost connection: disconnect.quitting
+2011-05-11 19:47:43 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-11 19:47:47 [INFO] To run the server without a gui, start it like this:
+2011-05-11 19:47:47 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2011-05-11 19:47:47 [INFO] Console commands:
+2011-05-11 19:47:47 [INFO]    help  or  ?               shows this message
+2011-05-11 19:47:47 [INFO]    kick <player>             removes a player from the server
+2011-05-11 19:47:47 [INFO]    ban <player>              bans a player from the server
+2011-05-11 19:47:47 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2011-05-11 19:47:47 [INFO]    ban-ip <ip>               bans an IP address from the server
+2011-05-11 19:47:47 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2011-05-11 19:47:47 [INFO]    op <player>               turns a player into an op
+2011-05-11 19:47:47 [INFO]    deop <player>             removes op status from a player
+2011-05-11 19:47:47 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2011-05-11 19:47:47 [INFO]    give <player> <id> [num]  gives a player a resource
+2011-05-11 19:47:47 [INFO]    tell <player> <message>   sends a private message to a player
+2011-05-11 19:47:47 [INFO]    stop                      gracefully stops the server
+2011-05-11 19:47:47 [INFO]    save-all                  forces a server-wide level save
+2011-05-11 19:47:47 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2011-05-11 19:47:47 [INFO]    save-on                   re-enables terrain saving
+2011-05-11 19:47:47 [INFO]    list                      lists all currently connected players
+2011-05-11 19:47:47 [INFO]    say <message>             broadcasts a message to all players
+2011-05-11 19:47:47 [INFO]    time <add|set> <amount>   adds to or sets the world time (0-24000)
+2011-05-11 19:47:54 [INFO] CONSOLE: Opping desertmirage
+2011-05-11 19:48:04 [INFO] tchalvak [/192.168.1.103:60365] logged in with entity id 212051 at (55.5, 69.62000000476837, -187.5)
+2011-05-11 19:48:06 [INFO] <altrntvgrlfrnd> now you can give yourself stuff
+2011-05-11 19:48:16 [INFO] <desertmirage> how
+2011-05-11 19:48:44 [INFO] <desertmirage> sleep
+2011-05-11 19:48:59 [INFO] <altrntvgrlfrnd> type t, then /give desertmirage {number of item}
+2011-05-11 19:49:18 [INFO] <altrntvgrlfrnd> google search "minecraft data values" and it will link you to the wiki
+2011-05-11 19:49:34 [INFO] <desertmirage> ok
+2011-05-11 19:49:37 [INFO] <altrntvgrlfrnd> then you can find all of the items and give yourself whatever you want
+2011-05-11 19:49:49 [INFO] <desertmirage> thank you
+2011-05-11 19:50:21 [INFO] <altrntvgrlfrnd> hop in bed lucas
+2011-05-11 19:50:36 [INFO] <desertmirage> im in
+2011-05-11 19:50:41 [INFO] <altrntvgrlfrnd> k
+2011-05-11 19:51:36 [INFO] <desertmirage> creepers by base
+2011-05-11 19:53:27 [INFO] <desertmirage> were good
+2011-05-11 19:56:03 [INFO] tchalvak issued server command: give tchalvak 89 100
+2011-05-11 19:56:03 [INFO] tchalvak: Giving tchalvak some 89
+2011-05-11 19:56:09 [INFO] tchalvak issued server command: give tchalvak 89 100
+2011-05-11 19:56:09 [INFO] tchalvak: Giving tchalvak some 89
+2011-05-11 19:56:13 [INFO] <desertmirage> detonating
+2011-05-11 19:56:16 [INFO] tchalvak issued server command: give tchalvak 89 100
+2011-05-11 19:56:16 [INFO] tchalvak: Giving tchalvak some 89
+2011-05-11 19:56:21 [INFO] tchalvak issued server command: give tchalvak 89 100
+2011-05-11 19:56:21 [INFO] tchalvak: Giving tchalvak some 89
+2011-05-11 19:56:26 [INFO] tchalvak issued server command: give tchalvak 89 100
+2011-05-11 19:56:26 [INFO] tchalvak: Giving tchalvak some 89
+2011-05-11 19:59:56 [INFO] <desertmirage> detonating
+2011-05-11 20:00:33 [INFO] <desertmirage> ha ha
+2011-05-11 20:01:24 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-05-11 20:06:33 [INFO] desertmirage issued server command: give desertmirage 55 64
+2011-05-11 20:06:33 [INFO] desertmirage: Giving desertmirage some 55
+2011-05-11 20:07:25 [INFO] desertmirage issued server command: give desertmirage 55
+2011-05-11 20:07:25 [INFO] desertmirage: Giving desertmirage some 55
+2011-05-11 20:07:56 [INFO] desertmirage issued server command: give desertmirage 46
+2011-05-11 20:07:56 [INFO] desertmirage: Giving desertmirage some 46
+2011-05-11 20:08:33 [INFO] desertmirage issued server command: give desertmirage 46 64
+2011-05-11 20:08:33 [INFO] desertmirage: Giving desertmirage some 46
+2011-05-11 20:09:19 [INFO] desertmirage issued server command: give desertmirage 46
+2011-05-11 20:09:19 [INFO] desertmirage: Giving desertmirage some 46
+2011-05-11 20:09:52 [INFO] desertmirage issued server command: give desertmirage 46 64
+2011-05-11 20:09:52 [INFO] desertmirage: Giving desertmirage some 46
+2011-05-11 20:10:32 [INFO] desertmirage issued server command: give desertmirage 46 64
+2011-05-11 20:10:32 [INFO] desertmirage: Giving desertmirage some 46
+2011-05-11 20:11:54 [INFO] tchalvak lost connection: disconnect.quitting
+2011-05-11 20:12:08 [INFO] <desertmirage> tchalvak you on
+2011-05-11 20:23:44 [INFO] desertmirage issued server command: give desertmirage 276
+2011-05-11 20:23:44 [INFO] desertmirage: Giving desertmirage some 276
+2011-05-11 20:25:18 [INFO] desertmirage issued server command: give desertmirage 261
+2011-05-11 20:25:18 [INFO] desertmirage: Giving desertmirage some 261
+2011-05-11 20:26:05 [INFO] desertmirage issued server command: give desertmirage 262 100
+2011-05-11 20:26:05 [INFO] desertmirage: Giving desertmirage some 262
+2011-05-11 20:27:08 [INFO] desertmirage issued server command: give desertmirage 25
+2011-05-11 20:27:08 [INFO] desertmirage: Giving desertmirage some 25
+2011-05-11 20:27:54 [INFO] desertmirage issued server command: give desertmirage 84
+2011-05-11 20:27:54 [INFO] desertmirage: Giving desertmirage some 84
+2011-05-11 20:28:45 [INFO] desertmirage issued server command: give desert mirage 2257
+2011-05-11 20:29:32 [INFO] desertmirage issued server command: give desertmirage 2257
+2011-05-11 20:29:32 [INFO] desertmirage: Giving desertmirage some 2257
+2011-05-11 20:30:38 [INFO] <desertmirage> give desertmirage 2256
+2011-05-11 20:31:19 [INFO] desertmirage issued server command: give desertmirage 2256
+2011-05-11 20:31:19 [INFO] desertmirage: Giving desertmirage some 2256
+2011-05-11 20:33:13 [INFO] desertmirage lost connection: disconnect.quitting
+2011-05-11 20:33:17 [INFO] desertmirage [/192.168.1.107:49417] logged in with entity id 319681 at (55.5, 69.62000000476837, -180.5)
+2011-05-11 20:36:28 [INFO] desertmirage lost connection: disconnect.quitting
+2011-05-11 23:02:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-11 23:23:48 [INFO] altrntvgrlfrnd [/192.168.1.144:46312] logged in with entity id 323977 at (39.5, 65.62000000476837, -179.5)
+2011-05-11 23:27:31 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 5 64
+2011-05-11 23:27:31 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 5
+2011-05-11 23:27:39 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 5 64
+2011-05-11 23:27:39 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 5
+2011-05-11 23:32:14 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 45 64
+2011-05-11 23:32:14 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 45
+2011-05-11 23:32:22 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 45 64
+2011-05-11 23:32:22 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 45
+2011-05-11 23:32:31 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 45 64
+2011-05-11 23:32:31 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 45
+2011-05-11 23:36:39 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 82 64
+2011-05-11 23:36:39 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 82
+2011-05-11 23:36:46 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 5 64
+2011-05-11 23:36:46 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 5
+2011-05-11 23:36:56 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 5 64
+2011-05-11 23:36:56 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 5
+2011-05-11 23:37:33 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 5 51
+2011-05-11 23:37:33 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 5
+2011-05-11 23:37:51 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 5 2
+2011-05-11 23:37:51 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 5
+2011-05-11 23:38:07 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 45 50
+2011-05-11 23:38:07 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 45
+2011-05-11 23:38:28 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 82 12
+2011-05-11 23:38:28 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 82
+2011-05-11 23:52:31 [INFO] tchalvak [/192.168.1.103:41794] logged in with entity id 346485 at (46.5, 65.62000000476837, -174.5)
+2011-05-11 23:59:54 [INFO] tchalvak issued server command: give tchalvak 89 100
+2011-05-11 23:59:54 [INFO] tchalvak: Giving tchalvak some 89
+2011-05-12 00:00:39 [INFO] tchalvak issued server command: give tchalvak 89 100
+2011-05-12 00:00:39 [INFO] tchalvak: Giving tchalvak some 89
+2011-05-12 00:00:45 [INFO] tchalvak issued server command: give tchalvak 89 100
+2011-05-12 00:00:45 [INFO] tchalvak: Giving tchalvak some 89
+2011-05-12 00:00:51 [INFO] tchalvak issued server command: give tchalvak 89 100
+2011-05-12 00:00:51 [INFO] tchalvak: Giving tchalvak some 89
+2011-05-12 00:03:07 [INFO] tchalvak issued server command: give tchalvak 89 100
+2011-05-12 00:03:07 [INFO] tchalvak: Giving tchalvak some 89
+2011-05-12 00:03:11 [INFO] tchalvak issued server command: give tchalvak 89 100
+2011-05-12 00:03:11 [INFO] tchalvak: Giving tchalvak some 89
+2011-05-12 00:15:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-12 00:15:05 [INFO] tchalvak lost connection: disconnect.quitting
+2011-05-12 00:19:16 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 45 64
+2011-05-12 00:19:16 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 45
+2011-05-12 00:19:24 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 45 64
+2011-05-12 00:19:24 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 45
+2011-05-12 00:19:57 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 355 4
+2011-05-12 00:19:57 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 355
+2011-05-12 00:29:09 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 82 64
+2011-05-12 00:29:09 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 82
+2011-05-12 00:29:18 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 82 64
+2011-05-12 00:29:18 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 82
+2011-05-12 00:29:25 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 82 64
+2011-05-12 00:29:25 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 82
+2011-05-12 00:41:21 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 50 64
+2011-05-12 00:41:21 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 50
+2011-05-12 00:43:25 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-05-12 00:44:57 [INFO] CONSOLE: Stopping the server..
+2011-05-12 00:44:57 [INFO] Stopping server
+2011-05-12 00:44:57 [INFO] Saving chunks
+2011-05-14 11:01:22 [INFO] Starting minecraft server version Beta 1.5_02
+2011-05-14 11:01:22 [INFO] Loading properties
+2011-05-14 11:01:22 [INFO] Starting Minecraft server on *:25565
+2011-05-14 11:01:22 [INFO] Preparing level "world"
+2011-05-14 11:01:22 [INFO] Preparing start region
+2011-05-14 11:01:23 [INFO] Preparing spawn area: 48%
+2011-05-14 11:01:24 [INFO] Done (2173107735ns)! For help, type "help" or "?"
+2011-05-14 11:01:36 [INFO] Unknown console command. Type "help" for help.
+2011-05-14 11:02:10 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-14 11:48:51 [INFO] altrntvgrlfrnd [/192.168.1.109:60153] logged in with entity id 112 at (55.5, 69.62000000476837, -172.5)
+2011-05-14 11:50:57 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 20 64
+2011-05-14 11:50:57 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 20
+2011-05-14 11:51:04 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-05-14 11:51:31 [INFO] altrntvgrlfrnd [/192.168.1.109:60158] logged in with entity id 1083 at (50.5, 66.62000000476837, -179.5)
+2011-05-14 11:58:35 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 82 64
+2011-05-14 11:58:35 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 82
+2011-05-14 11:58:45 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 82 64
+2011-05-14 11:58:45 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 82
+2011-05-14 11:59:26 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 82 64
+2011-05-14 11:59:26 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 82
+2011-05-14 11:59:34 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 82 64
+2011-05-14 11:59:34 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 82
+2011-05-14 12:00:08 [INFO] Cudabudda71 [/192.168.1.111:49297] logged in with entity id 3438 at (54.5, 68.62000000476837, -180.5)
+2011-05-14 12:01:53 [INFO] Cudabudda71 tried command: give cudabudda71 278
+2011-05-14 12:04:46 [INFO] altrntvgrlfrnd issued server command: op cudabudda71
+2011-05-14 12:04:46 [INFO] altrntvgrlfrnd: Opping cudabudda71
+2011-05-14 12:05:06 [INFO] altrntvgrlfrnd issued server command: give 333
+2011-05-14 12:05:14 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 333
+2011-05-14 12:05:14 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 333
+2011-05-14 12:05:26 [INFO] Cudabudda71 issued server command: give cudabudda71 278
+2011-05-14 12:05:26 [INFO] Cudabudda71: Giving Cudabudda71 some 278
+2011-05-14 12:07:33 [INFO] Cudabudda71 issued server command: tp cudabudda71 altrntvgrlfrnd
+2011-05-14 12:07:33 [INFO] Cudabudda71: Teleporting cudabudda71 to altrntvgrlfrnd.
+2011-05-14 12:07:36 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-14 12:10:41 [INFO] Cudabudda71 issued server command: give cudabudda71 1 64
+2011-05-14 12:10:41 [INFO] Cudabudda71: Giving Cudabudda71 some 1
+2011-05-14 12:12:19 [INFO] Cudabudda71 issued server command: give cudabudda71 46 64
+2011-05-14 12:12:19 [INFO] Cudabudda71: Giving Cudabudda71 some 46
+2011-05-14 12:15:30 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-14 12:16:06 [INFO] Cudabudda71 issued server command: tp cudabudda71 altrntvgrlfrnd
+2011-05-14 12:16:06 [INFO] Cudabudda71: Teleporting cudabudda71 to altrntvgrlfrnd.
+2011-05-14 12:19:33 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 12:19:33 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 12:19:42 [INFO] altrntvgrlfrnd issued server command: give altrntvglrfrnd 46 64
+2011-05-14 12:19:56 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 12:19:56 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 12:21:28 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-05-14 12:21:34 [INFO] altrntvgrlfrnd [/192.168.1.109:39553] logged in with entity id 131339 at (36.5, 65.62000000476837, -185.5)
+2011-05-14 12:22:20 [INFO] Cudabudda71 issued server command: give cudabudda71278
+2011-05-14 12:22:31 [INFO] Cudabudda71 issued server command: give cudabudda 271
+2011-05-14 12:22:43 [INFO] Cudabudda71 issued server command: give cudabudda71 278
+2011-05-14 12:22:43 [INFO] Cudabudda71: Giving Cudabudda71 some 278
+2011-05-14 12:23:09 [INFO] Cudabudda71 issued server command: give cudabudda71 64 49
+2011-05-14 12:23:09 [INFO] Cudabudda71: Giving Cudabudda71 some 64
+2011-05-14 12:23:26 [INFO] Cudabudda71 issued server command: give cudabudda71 49 64
+2011-05-14 12:23:26 [INFO] Cudabudda71: Giving Cudabudda71 some 49
+2011-05-14 12:23:40 [INFO] Cudabudda71 issued server command: give cudabudda71 46 64
+2011-05-14 12:23:40 [INFO] Cudabudda71: Giving Cudabudda71 some 46
+2011-05-14 12:26:13 [INFO] Cudabudda71 issued server command: give cudabudda71 46 64
+2011-05-14 12:26:13 [INFO] Cudabudda71: Giving Cudabudda71 some 46
+2011-05-14 12:26:54 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-05-14 12:26:57 [INFO] altrntvgrlfrnd [/192.168.1.109:51343] logged in with entity id 140406 at (45.5, 65.62000000476837, -187.5)
+2011-05-14 12:30:00 [INFO] Cudabudda71 issued server command: give cudabudda71 363
+2011-05-14 12:31:10 [INFO] Cudabudda71 issued server command: give cudabudda71 322
+2011-05-14 12:31:10 [INFO] Cudabudda71: Giving Cudabudda71 some 322
+2011-05-14 12:31:30 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 12:31:30 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 12:31:44 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 12:31:44 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 12:31:56 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 12:31:56 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 12:32:05 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 12:32:05 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 12:34:03 [INFO] Cudabudda71 issued server command: give cudabudda71 89 64
+2011-05-14 12:34:03 [INFO] Cudabudda71: Giving Cudabudda71 some 89
+2011-05-14 12:35:05 [INFO] Cudabudda71 issued server command: give cudabudda71 89 65
+2011-05-14 12:35:05 [INFO] Cudabudda71: Giving Cudabudda71 some 89
+2011-05-14 12:35:31 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-05-14 12:41:15 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-14 12:41:38 [INFO] Cudabudda71 lost connection: disconnect.quitting
+2011-05-14 14:52:55 [INFO] altrntvgrlfrnd [/192.168.1.109:45829] logged in with entity id 259791 at (46.5, 65.62000000476837, -177.5)
+2011-05-14 14:54:00 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-05-14 14:54:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-14 15:02:16 [INFO] altrntvgrlfrnd [/192.168.1.109:45833] logged in with entity id 260348 at (45.5, 65.62000000476837, -185.5)
+2011-05-14 15:08:29 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 54 64
+2011-05-14 15:08:29 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 54
+2011-05-14 15:11:21 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrn 45 64
+2011-05-14 15:11:30 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 45 64
+2011-05-14 15:11:30 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 45
+2011-05-14 15:11:45 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 45 64
+2011-05-14 15:11:45 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 45
+2011-05-14 15:11:55 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 45 64
+2011-05-14 15:11:55 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 45
+2011-05-14 15:12:03 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 45 64
+2011-05-14 15:12:03 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 45
+2011-05-14 15:12:12 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 82 64
+2011-05-14 15:12:12 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 82
+2011-05-14 15:12:21 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 82 64
+2011-05-14 15:12:21 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 82
+2011-05-14 15:22:57 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 45 64
+2011-05-14 15:22:57 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 45
+2011-05-14 15:23:13 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 21
+2011-05-14 15:23:13 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 15:23:28 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 15:23:28 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 15:23:39 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 15:23:39 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 15:23:47 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 15:23:47 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 15:24:11 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 15:24:11 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 15:29:17 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 26264
+2011-05-14 15:29:34 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 262 64
+2011-05-14 15:29:34 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 262
+2011-05-14 15:32:32 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 45 15
+2011-05-14 15:32:32 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 45
+2011-05-14 15:33:11 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 45 15
+2011-05-14 15:33:11 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 45
+2011-05-14 15:34:48 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 26
+2011-05-14 15:34:48 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 26
+2011-05-14 15:36:54 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 1 64
+2011-05-14 15:36:54 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 1
+2011-05-14 15:37:15 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 18 64
+2011-05-14 15:37:15 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 18
+2011-05-14 15:39:17 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-05-14 15:39:20 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-14 15:39:20 [INFO] altrntvgrlfrnd [/192.168.1.109:45775] logged in with entity id 270135 at (38.5, 65.62000000476837, -173.5)
+2011-05-14 15:40:09 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-05-14 15:40:12 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-14 15:56:15 [INFO] altrntvgrlfrnd [/192.168.1.109:45779] logged in with entity id 270221 at (55.5, 69.62000000476837, -168.5)
+2011-05-14 16:01:35 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 50 64
+2011-05-14 16:01:35 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 50
+2011-05-14 16:01:45 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 50 64
+2011-05-14 16:01:45 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 50
+2011-05-14 16:01:52 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 50 64
+2011-05-14 16:01:52 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 50
+2011-05-14 16:12:36 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-05-14 16:12:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-14 16:12:40 [INFO] altrntvgrlfrnd [/192.168.1.109:47311] logged in with entity id 273834 at (37.5, 65.62000000476837, -183.5)
+2011-05-14 16:20:54 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 267
+2011-05-14 16:20:54 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 267
+2011-05-14 16:21:40 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 276
+2011-05-14 16:21:40 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 276
+2011-05-14 16:21:50 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 277
+2011-05-14 16:21:50 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 277
+2011-05-14 16:21:57 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 278
+2011-05-14 16:21:57 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 278
+2011-05-14 16:22:30 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 266
+2011-05-14 16:22:30 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 266
+2011-05-14 16:23:16 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 261
+2011-05-14 16:23:16 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 261
+2011-05-14 16:23:33 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 262 64
+2011-05-14 16:23:33 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 262
+2011-05-14 16:23:58 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-05-14 16:24:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-14 16:29:39 [INFO] altrntvgrlfrnd [/192.168.1.109:44445] logged in with entity id 277989 at (44.5, 65.62000000476837, -177.5)
+2011-05-14 16:29:49 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-05-14 16:29:51 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-14 16:30:52 [INFO] altrntvgrlfrnd [/192.168.1.109:44459] logged in with entity id 278068 at (36.5, 65.62000000476837, -185.5)
+2011-05-14 16:31:51 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 50 64
+2011-05-14 16:31:51 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 50
+2011-05-14 16:31:58 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 509 64
+2011-05-14 16:32:17 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 50 64
+2011-05-14 16:32:17 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 50
+2011-05-14 16:32:25 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 50 64
+2011-05-14 16:32:25 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 50
+2011-05-14 16:32:42 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 50 64
+2011-05-14 16:32:42 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 50
+2011-05-14 16:32:50 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:32:50 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:32:58 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:32:58 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:33:06 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrn 46 64
+2011-05-14 16:33:14 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:33:14 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:33:20 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:33:20 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:33:28 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:33:28 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:33:40 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:33:40 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:33:48 [INFO] <altrntvgrlfrnd> give altrntvgrlfrnd 46 64
+2011-05-14 16:34:20 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:34:20 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:34:36 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:34:36 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:34:43 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:34:43 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:34:53 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:34:53 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:35:10 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:35:10 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:35:19 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:35:19 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:35:38 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 1 64
+2011-05-14 16:35:38 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 1
+2011-05-14 16:43:37 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 276
+2011-05-14 16:43:37 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 276
+2011-05-14 16:43:45 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46
+2011-05-14 16:43:45 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:44:09 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 63
+2011-05-14 16:44:09 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:44:35 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 277
+2011-05-14 16:44:35 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 277
+2011-05-14 16:44:45 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 278
+2011-05-14 16:44:45 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 278
+2011-05-14 16:44:56 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 1 64
+2011-05-14 16:44:56 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 1
+2011-05-14 16:45:09 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 50 64
+2011-05-14 16:45:09 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 50
+2011-05-14 16:45:27 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 50 64
+2011-05-14 16:45:27 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 50
+2011-05-14 16:45:34 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 50 64
+2011-05-14 16:45:34 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 50
+2011-05-14 16:45:43 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 50 64
+2011-05-14 16:45:43 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 50
+2011-05-14 16:45:59 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:45:59 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:46:09 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:46:09 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:46:20 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:46:20 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:46:31 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:46:31 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:46:39 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:46:39 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:46:51 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:46:51 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:47:24 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:47:24 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:47:34 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:47:34 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:47:42 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:47:42 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:47:53 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:47:53 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:48:11 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 16:48:11 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 16:48:29 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-05-14 16:48:37 [INFO] altrntvgrlfrnd [/192.168.1.109:51606] logged in with entity id 282928 at (55.5, 69.62000000476837, -177.5)
+2011-05-14 16:53:36 [INFO] altrntvgrlfrnd issued server command: give 261
+2011-05-14 16:53:47 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 261
+2011-05-14 16:53:47 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 261
+2011-05-14 16:53:58 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 262 64
+2011-05-14 16:53:58 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 262
+2011-05-14 16:59:56 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 1 64
+2011-05-14 16:59:56 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 1
+2011-05-14 17:03:27 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 50 64
+2011-05-14 17:03:27 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 50
+2011-05-14 17:03:38 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 50 64
+2011-05-14 17:03:38 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 50
+2011-05-14 17:04:45 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 50 64
+2011-05-14 17:04:45 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 50
+2011-05-14 17:04:51 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 50 64
+2011-05-14 17:04:51 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 50
+2011-05-14 17:06:40 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 261
+2011-05-14 17:06:40 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 261
+2011-05-14 17:06:50 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 262 64
+2011-05-14 17:06:50 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 262
+2011-05-14 17:07:08 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 17:07:08 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 17:07:17 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 17:07:17 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 17:07:27 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 17:07:27 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 17:07:34 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 17:07:34 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 17:07:41 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 17:07:41 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 17:07:48 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-14 17:07:48 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-14 17:08:03 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrn 278
+2011-05-14 17:08:16 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 278
+2011-05-14 17:08:16 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 278
+2011-05-14 17:16:08 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-05-14 17:25:50 [INFO] altrntvgrlfrnd [/192.168.1.109:56467] logged in with entity id 290975 at (54.5, 68.62000000476837, -187.5)
+2011-05-14 17:28:56 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 1 64
+2011-05-14 17:28:56 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 1
+2011-05-14 17:35:13 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-05-14 20:34:30 [INFO] To run the server without a gui, start it like this:
+2011-05-14 20:34:30 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2011-05-14 20:34:30 [INFO] Console commands:
+2011-05-14 20:34:30 [INFO]    help  or  ?               shows this message
+2011-05-14 20:34:30 [INFO]    kick <player>             removes a player from the server
+2011-05-14 20:34:30 [INFO]    ban <player>              bans a player from the server
+2011-05-14 20:34:30 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2011-05-14 20:34:30 [INFO]    ban-ip <ip>               bans an IP address from the server
+2011-05-14 20:34:30 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2011-05-14 20:34:30 [INFO]    op <player>               turns a player into an op
+2011-05-14 20:34:30 [INFO]    deop <player>             removes op status from a player
+2011-05-14 20:34:30 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2011-05-14 20:34:30 [INFO]    give <player> <id> [num]  gives a player a resource
+2011-05-14 20:34:30 [INFO]    tell <player> <message>   sends a private message to a player
+2011-05-14 20:34:30 [INFO]    stop                      gracefully stops the server
+2011-05-14 20:34:30 [INFO]    save-all                  forces a server-wide level save
+2011-05-14 20:34:30 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2011-05-14 20:34:30 [INFO]    save-on                   re-enables terrain saving
+2011-05-14 20:34:30 [INFO]    list                      lists all currently connected players
+2011-05-14 20:34:30 [INFO]    say <message>             broadcasts a message to all players
+2011-05-14 20:34:30 [INFO]    time <add|set> <amount>   adds to or sets the world time (0-24000)
+2011-05-14 20:34:34 [INFO] CONSOLE: Forcing save..
+2011-05-14 20:34:34 [INFO] CONSOLE: Save complete.
+2011-05-14 20:34:37 [INFO] CONSOLE: Stopping the server..
+2011-05-14 20:34:37 [INFO] Stopping server
+2011-05-14 20:34:37 [INFO] Saving chunks
+2011-05-19 20:28:29 [INFO] Starting minecraft server version Beta 1.5_02
+2011-05-19 20:28:29 [INFO] Loading properties
+2011-05-19 20:28:29 [INFO] Starting Minecraft server on *:25565
+2011-05-19 20:28:29 [INFO] Preparing level "world"
+2011-05-19 20:28:29 [INFO] Preparing start region
+2011-05-19 20:28:31 [INFO] Preparing spawn area: 40%
+2011-05-19 20:28:32 [INFO] Preparing spawn area: 69%
+2011-05-19 20:28:32 [INFO] Done (2965246422ns)! For help, type "help" or "?"
+2011-05-19 20:29:23 [INFO] tchalvak [/192.168.1.103:56841] logged in with entity id 166 at (46.5, 65.62000000476837, -172.5)
+2011-05-19 20:32:06 [INFO] tchalvak lost connection: disconnect.quitting
+2011-05-19 21:11:50 [INFO] altrntvgrlfrnd [/192.168.1.109:33605] logged in with entity id 4032 at (49.5, 65.62000000476837, -174.5)
+2011-05-19 21:12:57 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 277
+2011-05-19 21:12:57 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 277
+2011-05-19 21:13:05 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 278
+2011-05-19 21:13:05 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 278
+2011-05-19 21:13:14 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 261
+2011-05-19 21:13:14 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 261
+2011-05-19 21:13:21 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 262 64
+2011-05-19 21:13:21 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 262
+2011-05-19 21:13:34 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 50 64
+2011-05-19 21:13:34 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 50
+2011-05-19 21:14:01 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 46 64
+2011-05-19 21:14:01 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 46
+2011-05-19 21:14:10 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-05-19 21:14:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-19 21:14:13 [INFO] altrntvgrlfrnd [/192.168.1.109:37401] logged in with entity id 4905 at (39.5, 65.62000000476837, -183.5)
+2011-05-19 21:28:02 [INFO] altrntvgrlfrnd issued server command: give 87
+2011-05-19 21:28:10 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 87
+2011-05-19 21:28:10 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 87
+2011-05-19 21:28:53 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 269
+2011-05-19 21:28:53 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 269
+2011-05-19 21:29:11 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 259
+2011-05-19 21:29:11 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 259
+2011-05-19 21:30:12 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 85 3
+2011-05-19 21:30:12 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 85
+2011-05-19 21:31:54 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 5 64
+2011-05-19 21:31:54 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 5
+2011-05-19 21:32:55 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 85 64
+2011-05-19 21:32:55 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 85
+2011-05-19 21:34:06 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 53 64
+2011-05-19 21:34:06 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 53
+2011-05-19 21:36:15 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 20 64
+2011-05-19 21:36:15 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 20
+2011-05-19 21:41:23 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-05-19 21:44:46 [INFO] altrntvgrlfrnd [/192.168.1.109:54179] logged in with entity id 28180 at (55.5, 69.62000000476837, -184.5)
+2011-05-19 21:46:26 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 1 64
+2011-05-19 21:46:26 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 1
+2011-05-19 21:46:37 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 18 64
+2011-05-19 21:46:37 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 18
+2011-05-19 22:05:17 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 333
+2011-05-19 22:05:18 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 333
+2011-05-19 22:05:31 [INFO] altrntvgrlfrnd issued server command: give altrntvgrlfrnd 322
+2011-05-19 22:05:31 [INFO] altrntvgrlfrnd: Giving altrntvgrlfrnd some 322
+2011-05-19 22:09:44 [INFO] altrntvgrlfrnd lost connection: disconnect.quitting
+2011-05-19 22:09:48 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-05-20 09:47:13 [INFO] CONSOLE: Forcing save..
+2011-05-20 09:47:13 [INFO] CONSOLE: Save complete.
+2011-05-20 09:47:16 [INFO] CONSOLE: Stopping the server..
+2011-05-20 09:47:16 [INFO] Stopping server
+2011-05-20 09:47:16 [INFO] Saving chunks
